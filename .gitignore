@@ -3,7 +3,15 @@ __pycache__/
 *.pyo
 *.pyd
 .env
-.xlsx
+
+# Excel files
+*.xlsx
+
+# Zip files
+*.zip
+
+# Output files
+output.xlsx
 # Local virtual environments
 dataExtractor_integrated/
 dataExtract
