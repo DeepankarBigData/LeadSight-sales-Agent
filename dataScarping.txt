@@ -1,4 +1,0 @@
-DataExtract\Scripts\activate
-
-pip install playwright pandas openxyl
-playwright install
